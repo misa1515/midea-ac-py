@@ -35,7 +35,7 @@
       "no_devices_found": "V sieti sa nenašli žiadne podporované zariadenia."
     },
     "error": {
-      "cannot_connect":"S týmito nastaveniami sa nepodarilo nadviazať spojenie.",
+      "cannot_connect": "S týmito nastaveniami sa nepodarilo nadviazať spojenie.",
       "device_not_found": "Zariadenie sa v sieti nenašlo.",
       "unsupported_device": "Zariadenie nie je podporované."
     }
@@ -119,3 +119,4 @@
       }
     }
   }
+}
